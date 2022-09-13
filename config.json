@@ -11,12 +11,5 @@
             "CHECK_POLYGON": "https://polygon-rpc.com",
             "CHECK_BSC": "https://bscrpc.com"
         }
-    },
-    "UserConfig" : {
-        "address" : null,
-        "threads" : null,
-        "multichain" : null,
-        "badHitLog" : null,
-        "webhook" : null
     }
 }
