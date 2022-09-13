@@ -1,11 +1,9 @@
 {
-    "ProgramConfig" : {
-        "version" : 1.4,
-        "versionName" : "1.4 uNashy remake",
-        "data" : {
-            "GAS_API": "https://ethgasstation.info/api/ethgasAPI.json?",
-            "MAIN_NODE" : "https://cloudflare-eth.com/",
-            "BACKUP_NODE" : "https://rpc.ankr.com/eth"
-        }
+    "version" : 1.4,
+    "versionName" : "1.4 uNashy remake",
+    "data" : {
+        "GAS_API": "https://ethgasstation.info/api/ethgasAPI.json?",
+        "MAIN_NODE" : "https://cloudflare-eth.com/",
+        "BACKUP_NODE" : "https://rpc.ankr.com/eth"
     }
 }
